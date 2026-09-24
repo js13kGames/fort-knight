@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - rpg
+  - adventure
 post: https://carelesslabs.wordpress.com/2023/09/21/fort-knight-post-mortem-js13k/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
